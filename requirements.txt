@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+supabase
+groq
+jinja2
+python-multipart
+uuid
